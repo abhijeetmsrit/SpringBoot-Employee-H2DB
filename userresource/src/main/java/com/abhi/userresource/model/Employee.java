@@ -16,6 +16,7 @@ public class Employee {
 	private String lastName;
 	private String emailId;
 
+
 	public Employee() {
 
 	}
@@ -37,6 +38,7 @@ public class Employee {
 
 	@Column(name = "first_name", nullable = false)
 	public String getFirstName() {
+
 		return firstName;
 	}
 	public void setFirstName(String firstName) {

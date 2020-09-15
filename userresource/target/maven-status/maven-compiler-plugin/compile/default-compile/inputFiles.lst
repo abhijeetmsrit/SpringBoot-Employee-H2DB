@@ -1,7 +1,10 @@
 /media/abhi/IAM/code/workspace-spring-tool-suite/userresource/src/main/java/com/abhi/userresource/exception/ErrorDetails.java
 /media/abhi/IAM/code/workspace-spring-tool-suite/userresource/src/main/java/com/abhi/userresource/data/EmployeeRepository.java
+/media/abhi/IAM/code/workspace-spring-tool-suite/userresource/src/main/java/com/abhi/userresource/security/JWTAuthorizationFilter.java
 /media/abhi/IAM/code/workspace-spring-tool-suite/userresource/src/main/java/com/abhi/userresource/UserApplication.java
 /media/abhi/IAM/code/workspace-spring-tool-suite/userresource/src/main/java/com/abhi/userresource/exception/GlobalExceptionHandler.java
 /media/abhi/IAM/code/workspace-spring-tool-suite/userresource/src/main/java/com/abhi/userresource/exception/ResourceNotFoundException.java
 /media/abhi/IAM/code/workspace-spring-tool-suite/userresource/src/main/java/com/abhi/userresource/controller/EmployeeController.java
+/media/abhi/IAM/code/workspace-spring-tool-suite/userresource/src/main/java/com/abhi/userresource/security/OKTAJWTProcessor.java
 /media/abhi/IAM/code/workspace-spring-tool-suite/userresource/src/main/java/com/abhi/userresource/model/Employee.java
+/media/abhi/IAM/code/workspace-spring-tool-suite/userresource/src/main/java/com/abhi/userresource/exception/JwtVerificationException.java

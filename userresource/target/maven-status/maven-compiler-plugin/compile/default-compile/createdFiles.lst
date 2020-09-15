@@ -1,7 +1,10 @@
-com/abhi/userresource/exception/ResourceNotFoundException.class
 com/abhi/userresource/controller/EmployeeController.class
 com/abhi/userresource/UserApplication.class
 com/abhi/userresource/exception/ErrorDetails.class
-com/abhi/userresource/exception/GlobalExceptionHandler.class
+com/abhi/userresource/security/OKTAJWTProcessor.class
 com/abhi/userresource/data/EmployeeRepository.class
 com/abhi/userresource/model/Employee.class
+com/abhi/userresource/exception/JwtVerificationException.class
+com/abhi/userresource/security/JWTAuthorizationFilter.class
+com/abhi/userresource/exception/ResourceNotFoundException.class
+com/abhi/userresource/exception/GlobalExceptionHandler.class
